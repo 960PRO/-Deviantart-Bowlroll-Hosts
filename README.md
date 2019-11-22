@@ -6,4 +6,4 @@
 Shadowsocks——https://shadowsocks.org/en/download/clients.html
 ShadowsocksR——https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 V2ray——https://www.v2ray.com/
-
+Bvpn——https://bvpn.com/
