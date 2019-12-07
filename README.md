@@ -7,3 +7,9 @@ Shadowsocks——https://shadowsocks.org/en/download/clients.html
 ShadowsocksR——https://github.com/shadowsocksrr/shadowsocksr-csharp/releases
 V2ray——https://www.v2ray.com/
 Bvpn——https://bvpn.com/
+
+Bowlroll下载慢主要发生在移动、网通、长城宽带及部分校园网用户。
+解决方案是使用代理(国内代理即可)。代理服务器挑选原则：靠近沿海地区，运营商最好是腾讯云、阿里云、电信。
+推荐一个Socks5代理服务器地址：47.101.173.127 端口:8080
+代理服务器提供网站推荐——https://proxy.mimvp.com/
+https://www.xicidaili.com/
